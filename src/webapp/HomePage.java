@@ -8,4 +8,6 @@ public class HomePage {
 
     // More fun to come
 
+    // Logo
+
 }
